@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "burp": {
+      "command": "python",
+      "args": [
+        "/Users/abcd/开发/java/BurpMcp/mcp-server/burp_mcp_server.py"
+      ],
+      "env": {
+        "BURP_API_BASE_URL": "http://127.0.0.1:8181"
+      }
+    }
+  }
+}
